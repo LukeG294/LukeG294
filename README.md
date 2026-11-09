@@ -29,10 +29,12 @@
 |---|---|
 | 🏫 **Piloted campus-wide** | Built and piloted at La Jolla Country Day School with students, teachers, and administrators |
 | 🎤 **NAIS Annual Conference** | Exhibited with our own booth in Nashville, TN, presenting to thousands of educators |
-| 📱 **Student app** | Cross-platform mobile app (Flutter / Dart) for quick NFC check-ins |
+| 📱 **Mobile apps** | Native iOS and Flutter apps for quick NFC check-ins, plus a campus kiosk app |
 | 🧩 **Teacher Chrome extension** | One-click attendance tools for teachers, right in the browser |
 | 📊 **Admin dashboards** | Attendance tools, student manager, and a senior-privileges tracker — opening it up to seniors turned checklist progress into friendly peer motivation |
 | 🔍 **[programs.ckpnt.com](https://programs.ckpnt.com)** | Searchable database of ~370 pre-college & enrichment programs for high school students |
+| 🔐 **Hardware & NFC** | ESP32 BLE firmware and MIFARE DESFire card authentication |
+| 🤖 **AI integration** | MCP server so AI assistants can work with CheckPoint data |
 | ☁️ **Backend** | Node.js REST API and scheduled jobs on AWS Lambda, web apps deployed on Vercel |
 
 <sub>Source code is private — happy to walk through the architecture or give a demo.</sub>
@@ -57,7 +59,6 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=LukeG294&show_icons=true&count_private=true&hide_border=true&theme=transparent&title_color=3B82F6&icon_color=3B82F6" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukeG294&layout=compact&hide_border=true&theme=transparent&title_color=3B82F6" height="165" alt="Top languages" />
+<img src="https://streak-stats.demolab.com?user=LukeG294&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub streak" />
 
 </div>
