@@ -7,7 +7,7 @@
 <p>
   <a href="https://www.linkedin.com/in/luke-graham-097424219"><img src="https://img.shields.io/badge/LinkedIn-Luke_Graham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://ckpnt.com"><img src="https://img.shields.io/badge/ckpnt.com-CheckPoint_Student-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="CheckPoint Student" /></a>
+  <a href="https://ckpnt.com"><img src="https://img.shields.io/badge/ckpnt.com-CheckPoint_Student-111827?style=for-the-badge" alt="CheckPoint Student" /></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://cdss.berkeley.edu"><img src="https://img.shields.io/badge/UC_Berkeley-CS_'30-003262?style=for-the-badge" alt="UC Berkeley" /></a>
 </p>
