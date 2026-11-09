@@ -59,6 +59,6 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=LukeG294&hide_border=true&background=00000000&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=LukeG294&theme=github-dark-blue&hide_border=true&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" alt="GitHub streak" />
 
 </div>
