@@ -91,6 +91,6 @@
 
 ### Other work
 
-- **Open source:** contributor to [TH-Companion](https://github.com/LukeG294/TH-Companion), a browser extension for Brainly's moderator and answerer team
+- **Open source:** contributor to TH-Companion, a browser extension for Brainly's moderator and answerer team
 - **[animator](https://github.com/LukeG294/animator):** CS 61A project written in Gleam
 - **Earlier:** Discord and Ryver bots, Chrome extensions, and school web tools
