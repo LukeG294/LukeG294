@@ -2,7 +2,7 @@
 
 # Luke Graham
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=CS+%40+UC+Berkeley;Founder+of+CheckPoint+Student;Building+products+schools+actually+use" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=3B82F6&center=true&vCenter=true&width=620&lines=CS+%40+UC+Berkeley;Founder+of+CheckPoint+Student;" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://www.linkedin.com/in/luke-graham-097424219"><img src="https://img.shields.io/badge/LinkedIn-Luke_Graham-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
