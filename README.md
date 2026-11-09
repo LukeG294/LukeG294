@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td><b>Admin dashboards</b></td>
-    <td>Attendance tools, a student manager, and a senior-privileges tracker. Opening the tracker up to seniors turned checklist progress into friendly peer motivation</td>
+    <td>Attendance tools, a student manager, and a senior-privileges tracker.</td>
   </tr>
   <tr>
     <td><b><a href="https://programs.ckpnt.com">programs.ckpnt.com</a></b></td>
