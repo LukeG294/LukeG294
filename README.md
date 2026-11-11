@@ -19,7 +19,7 @@
 ### About me
 
 - Computer Science student at **UC Berkeley** (College of Computing, Data Science, and Society)
-- Founder of **[CheckPoint Student](https://ckpnt.com)**, a campus presence and attendance platform
+- Co-founder of **[CheckPoint Student](https://ckpnt.com)**, a campus presence and attendance platform
 - Creating mobile, web, browser extensions, and serverless backends
 - San Diego, CA · open to **Summer 2027** SWE internships (San Diego or remote)
 
